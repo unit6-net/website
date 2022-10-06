@@ -1,0 +1,28 @@
+enabled: true
+id: "services"
+
+content:
+  title: "Security Automation Services"
+  text: "We help build services and solutions that stream line companies SEIMs/SOARs. "
+  cards:
+    - image: "images/services-web-development.png"
+      title: "Chronicle"
+      text: "We have extensive knowledge in setting up, building, and maintining automations around Chronicle / Siemplify. We have build log monitoring solutions, data ingest pipelines, rule / parser workflows, ect."
+      button:
+        label: "Learn more"
+        url: "#"
+    
+    - image: "images/services-web-development.png"
+      title: "Cloud automated security pipelies for SIEMs/SOARs"
+      text: "Getting data into ones SIEM/SOAR can be a challenge for many organizations. We help build a data pipeline helping customers set up and automate the rule ingestion process. Our main workflows work with Chronicle to ensure data ends up in the correct location."
+      button:
+        label: "Learn more"
+        url: "#"
+
+    - image: "images/services-web-development.png"
+      title: "Certh.io: Automated Kuberneties WorkLoad Protection"
+      text: "We are building an internal platform for securing Kubernetes workloads from Ci/Cd to runtime. We ensure that only the code built in ones environment is running."
+      button:
+        label: "Learn more"
+        url: "#"
+

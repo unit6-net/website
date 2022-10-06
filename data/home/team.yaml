@@ -1,0 +1,30 @@
+enabled: true
+id: "team"
+
+content:
+  title: "Meet the Team"
+  text: "We are passionet about security."
+  cards:
+    - image: "images/team/aleks.jpg"
+      title: "Aleksander Okonski"
+      text: "Aleks has over 10 years of experiance in the cyber security space. His main skillsets are in pentesting and red teaming and cloud solutin aritecture. He last role was co-founder in a startup, with previouse work experiance in both corporate and govermental postitons. He also volnteers as a Goon (DefCon TV) and several other security conferences."
+      button:
+        label: "GhostOnTheFiber"
+        url: "attackpointsecurity.com"
+    
+    - image: "images/services-web-development.png"
+      title: "Griffin Reed"
+      text: "Griffin had a non traditional entry into the industry. Though having only three years of experience within CyberSecurity and Technology, his outside perspective brings a unique path to problem solving.
+
+Griffin's skillset include Go/Python, Cloud Deployments, and managing SEAM/SOAR. Griffin was previously an early developer at a startup, and Educational Assistant at a Programming University."
+      button:
+        label: "VissBusLabi"
+        url: "#"
+
+    - image: "images/services-web-development.png"
+      title: "Sander V"
+      text: "He is a mistery even to us."
+      button:
+        label: "_Dries"
+        url: "#"
+

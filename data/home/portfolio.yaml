@@ -1,0 +1,20 @@
+enabled: false
+id: "portfolio"
+#
+#content:
+#  - image: "images/portfolio-ecommerce.pn"
+#    pretitle: "Portfolio Service"
+#    title: "We developed automated security pipelies for SIEMs/SOARs"
+#    text: "Getting data into ones SIEM/SOAR can be a challenge for many organizations. We help build a data pipeline helping customers set up and automate the rule ingestion process. Our main workflows work with Chronicle to ensure data ends up in the correct location."
+#
+#  - image: "images/portfolio-ecommerce.pn"
+#    pretitle: "Certh.io"
+#    title: "Automated Kuberneties WorkLoad Protection"
+#    text: "We are building an internal platform for securing Kubernetes workloads from Ci/Cd to runtime. We ensure that only the code built in ones environment is running."
+#
+      #    buttons: 
+      #      - label: "See live"
+      #        url: "#"
+      #
+      #      - label: "Read more"
+      #        url: "#"

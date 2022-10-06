@@ -1,0 +1,15 @@
+enabled: true
+id: "hero"
+
+content:
+  title: "UNIT-6: Automating Security"
+  text: "At Unit-6 we deliver soultions in the Cyber Security space. We bring years of working in the security space with our experties of designing solutions to bring first class solutions to custoner problems. We belive that tackeling todays Cyber Security chalanges takes deep knowledge of security with the ability to build and automate tooling/solutions."
+
+  buttonPrimary:
+    label: "How we work"
+    url: "#"
+
+  buttonSecondary:
+    label: "Let's talk"
+    url: ""
+

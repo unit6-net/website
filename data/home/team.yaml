@@ -14,9 +14,7 @@ content:
     
     - image: "images/team/griffin.jpg"
       title: "Griffin Reed"
-      text: "Griffin had a non traditional entry into the industry. Though having only three years of experience within CyberSecurity and Technology, his outside perspective brings a unique path to problem solving.
-
-Griffin's skillset include Go/Python, Cloud Deployments, and managing SEAM/SOAR. Griffin was previously an early developer at a startup, and Educational Assistant at a Programming University."
+      text: "Griffin had a non traditional entry into the industry. His outside perspective brings a unique path to problem solving in CyberSecurity and Technology. Griffin's skillset include Go/Python, Cloud Deployments, and managing SEAM/SOAR. Griffin was previously an early developer at a startup, and Educational Assistant at a Programming University."
       button:
         label: "VissBusLabi"
         url: "#"

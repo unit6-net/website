@@ -7,14 +7,14 @@ content:
   cards:
     - image: "images/services-web-development.png"
       title: "Chronicle"
-      text: "We have extensive knowledge in setting up, building, and maintining automations around Chronicle / Siemplify. We have build log monitoring solutions, data ingest pipelines, rule / parser workflows, ect."
+      text: "We have extensive knowledge in setting up, building, and maintining automations around Chronicle / Siemplify. We have built log monitoring solutions, data ingestion pipelines, rule / parser workflows, ect."
       button:
         label: "Learn more"
         url: "#"
     
     - image: "images/services-web-development.png"
       title: "Cloud automated security pipelies for SIEMs/SOARs"
-      text: "Getting data into ones SIEM/SOAR can be a challenge for many organizations. We help build a data pipeline helping customers set up and automate the rule ingestion process. Our main workflows work with Chronicle to ensure data ends up in the correct location."
+      text: "Getting data into ones SIEM/SOAR can be a challenge for many organizations. We help build these data pipelines helping customers set up and automate the rule ingestion processes. Our main workflows work with Chronicle to ensure data ends up in the correct location."
       button:
         label: "Learn more"
         url: "#"

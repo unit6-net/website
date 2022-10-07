@@ -21,9 +21,9 @@ Griffin's skillset include Go/Python, Cloud Deployments, and managing SEAM/SOAR.
         label: "VissBusLabi"
         url: "#"
 
-    - image: "images/services-web-development.png"
+    - image: "images/team/sander.jpg"
       title: "Sander V"
-      text: "He is a mistery even to us."
+      text: "Sander has been working as a Software Engineer for 3 years, with a focus on Cloud Infrastructure and API-driven backend services. He has previously studied Computer Science during IGCSE and International Baccalaureate and graduated from programming colleges in Amsterdam and Vienna. He is continuing his pursuit of an interest in the intersection of Cybersecurity Operations and Automation/Software Development at Unit-6 after working at a SaaS startup and more recently an MSSP."
       button:
         label: "_Dries"
         url: "#"

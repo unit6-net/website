@@ -7,7 +7,7 @@ content:
   cards:
     - image: "images/team/aleks.jpg"
       title: "Aleksander"
-      text: "Aleks has over 10 years of experiance in the cyber security space. His main skillsets are in pentesting and red teaming and cloud solutin aritecture. He last role was co-founder in a startup, with previouse work experiance in both corporate and govermental postitons. He also volnteers as a Goon (DefCon TV) and several other security conferences."
+      text: "Aleks has over 10 years of experience in the cyber security space. His main skill sets are in penetration testing and red teaming and cloud solution architecture. He last role was co-founder in a startup, with previous work experience in both corporate and governmental positions. He also volunteers as a Goon (DefCon TV) and several other security conferences."
       button:
         label: "GhostOnTheFiber"
         url: "https://attackpointsecurity.com"

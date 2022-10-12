@@ -29,7 +29,7 @@ content:
 
     - image: "images/services-web-development.pn"
       title: "Certh.io: Automated Kuberneties WorkLoad Protection"
-      text: "We are building an internal platform for securing Kubernetes workloads from Ci/Cd to runtime. We ensure that only the code built in ones environment is running."
+      text: "We are building an internal platform for securing Kubernetes workloads from CI/CD to runtime. We ensure that only the code built in ones environment is running."
       # button:
       #   label: "Learn more"
       #   url: "#"

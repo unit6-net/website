@@ -3,7 +3,7 @@ id: "team"
 
 content:
   title: "Meet the Team"
-  text: "We are passionet about security."
+  text: "We are passionate about security."
   cards:
     - image: "images/team/aleks.jpg"
       title: "Aleksander"

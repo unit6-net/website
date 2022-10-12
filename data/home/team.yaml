@@ -6,21 +6,21 @@ content:
   text: "We are passionet about security."
   cards:
     - image: "images/team/aleks.jpg"
-      title: "Aleksander Okonski"
+      title: "Aleksander"
       text: "Aleks has over 10 years of experiance in the cyber security space. His main skillsets are in pentesting and red teaming and cloud solutin aritecture. He last role was co-founder in a startup, with previouse work experiance in both corporate and govermental postitons. He also volnteers as a Goon (DefCon TV) and several other security conferences."
       button:
         label: "GhostOnTheFiber"
-        url: "attackpointsecurity.com"
+        url: "https://attackpointsecurity.com"
     
     - image: "images/team/griffin.jpg"
-      title: "Griffin Reed"
+      title: "Griffin"
       text: "Griffin had a non traditional entry into the industry. His outside perspective brings a unique path to problem solving in CyberSecurity and Technology. Griffin's skillset include Go/Python, Cloud Deployments, and managing SEAM/SOAR. Griffin was previously an early developer at a startup, and Educational Assistant at a Programming University."
       button:
         label: "VissBusLabi"
         url: "#"
 
     - image: "images/team/sander.jpg"
-      title: "Sander Verheijen"
+      title: "Sander"
       text: "Sander has been working as a Software Engineer for 3 years, with a focus on Cloud Infrastructure and API-driven backend services. He has previously studied Computer Science during IGCSE and International Baccalaureate and graduated from programming colleges in Amsterdam and Vienna. He is continuing his pursuit of an interest in the intersection of Cybersecurity Operations and Automation/Software Development at Unit-6 after working at a SaaS startup and more recently an MSSP."
       button:
         label: "_Dries"

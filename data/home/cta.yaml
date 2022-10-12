@@ -1,9 +1,9 @@
-enabled: true
+enabled: false
 id: "cta"
 
-content:
-  title: "Start automating your security pipelines now!"
-  image: "images/services-web-development.png"
-  button:
-    label: "Let's talk"
-    url: "#"
+# content:
+#   title: "Start automating your security pipelines now!"
+#   image: "images/services-web-development.png"
+#   button:
+#     label: "Let's talk"
+#     url: "#"

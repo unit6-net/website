@@ -3,18 +3,18 @@ id: "services"
 
 content:
   title: "Security Automation Services"
-  text: "We help build services and solutions that stream line companies SEIMs/SOARs. "
+  text: "We help build services and solutions that stream line companies cloud deployments and solutions."
   cards:
     
     - image: "images/services-web-development.pn"
-      title: "Cloud automation"
-      text: "Todays modern applications are built around Cloud / Kubernetes. We have expericance around building solution that can run and scale in these environments. We have created deployment pipelines, applications, and monitoring frameworks for both Kubernetes workloads and Cloud deployments (GCP / Azure / AWS). Our current focuse is helping around automation of security related piplies along with our internal project Certh."
+      title: "Cloud DevSecOps and Site Reliability Engineering"
+      text: "TToday's modern applications are built around Cloud / Kubernetes. We work with our clients to develop, deploy, monitor, and secure their cloud based offerings on both Kubernetes workloads and Cloud deployments (GCP / Azure / AWS). We then facilitate the monitoring, security, and operations of a customers cloud deployments. We work as Site Reliability Engineers and SOC ensuring ongoing operations and security in the clients own cloud tenant. We have experience around building solution that can run and scale in these environments"
       # button:
       #   label: "Learn more"
       #   url: "#"
 
     - image: "images/services-web-development.pn"
-      title: "Cloud automated security pipelies for SIEMs/SOARs"
+      title: "Site Reliability Engineering for SIEMs/SOARs"
       text: "Getting data into ones SIEM/SOAR can be a challenge for many organizations. We help build these data pipelines helping customers set up and automate the rule ingestion processes. Our main workflows work with Chronicle, ensuring that both the data is processed in time as well as monitoring of the ingestion pipeline."
       # button:
       #   label: "Learn more"
@@ -22,10 +22,14 @@ content:
 
     - image: "images/services-web-development.pn"
       title: "Google Chronicle"
-      text: "We have extensive knowledge in setting up, building, and maintining automations around Chronicle / Siemplify. We have built log monitoring solutions, data ingestion pipelines, rule / parser workflows, ect."
+      text: "We have extensive knowledge in setting up, building, and maintining automations around Chronicle / Siemplify. We have built log monitoring solutions, data ingestion pipelines, rule / parser workflows."
       # button:
       #   label: "Learn more"
       #   url: "#"
+
+    - image: "images/services-web-development.pn"
+      title: "Security Consulting"
+      text: "Security is a vital part of ensuring compliance and minimizing risk. We offer services around: security auditing, penetration testing, and adversarial attack simulation (Red Teaming)."
 
     - image: "images/services-web-development.pn"
       title: "Certh.io: Automated Kuberneties WorkLoad Protection"

@@ -7,7 +7,7 @@ content:
   cards:
     
     - image: "images/services-web-development.pn"
-      title: "Cloud automation"
+      title: "Cloud Automation"
       text: "Todays modern applications are built around Cloud / Kubernetes. We have expericance around building solution that can run and scale in these environments. We have created deployment pipelines, applications, and monitoring frameworks for both Kubernetes workloads and Cloud deployments (GCP / Azure / AWS). Our current focuse is helping around automation of security related piplies along with our internal project Certh."
       # button:
       #   label: "Learn more"

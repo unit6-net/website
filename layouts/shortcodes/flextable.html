@@ -1,0 +1,163 @@
+<div class="grid">
+	<div class="grid-item">
+		GCP </br>Azure </br>AWS</br>
+	</div>
+	<div class="grid-item">
+		<div class="subgrid">
+			<div class="subgrid-item">
+				Infrastructe as Code</br>(Terraform and Pulumi)</br>
+			</div>
+			<div class="subgrid-item">
+				Maturity Assessments</br>Strategy and Roadmap Development</br>
+				Cloud Migration and Optimization</br>
+			</div>
+		</div>
+	</div>
+	<div class="grid-item">
+		VM Clusters </br>
+		Microservices </br>
+		(PaaS, SaaS, FaaS) </br>
+		VPN / Virtual Networking </br>
+		Database Blob Storage and Secret Vaults </br>
+		Identity / Service Account Management </br>
+	</div>
+	<div class="grid-item">
+		Container Orchestration</br>
+		Automation
+	</div>
+	<div class="grid-item">
+		<div class="subgrid">
+			<div class="subgrid-item">
+				Strategy and Roadmap Development
+			</div>
+			<div class="subgrid-item">
+				Containerization and Microservice Architecture
+			</div>
+		</div>
+	</div>
+	<div class="grid-item">
+		Development </br>
+		Management </br>
+		Scalability </br>
+		CI/CD
+	</div>
+	<div class="grid-item">
+		Backend Solutions
+	</div>
+	<div class="grid-item">
+		Golang</br>
+		Rust</br>
+		Python</br>
+		Javascript</br>
+		PHP</br>
+		C++</br>
+	</div>
+	<div class="grid-item">
+		Data Pipelines </br>
+		REST API Servers </br>
+		Sever Side Rendering </br>
+	</div>
+	<div class="grid-item">
+		Application Software Libraries
+	</div>
+	<div class="grid-item">
+		Golang</br>
+		Rust</br>
+		Python</br>
+		Javascript</br>
+		PHP</br>
+		C++</br>
+	</div>
+	<div class="grid-item">
+		Database Drivers </br>
+		Multi-Thread / Parallel Algorithms </br>
+		Graphics </br>
+		Containerization </br>
+	</div>
+	<div class="grid-item">
+		Database
+	</div>
+	<div class="grid-item">
+		Postgres</br>
+		BigQuery</br>
+		S3</br>
+		Azure Storage</br>
+		SQL</br>
+		ArangoDB</br>
+	</div>
+	<div class="grid-item">
+		Schema Design </br>
+		Migration </br>
+		Re-Integration </br>
+	</div>
+	<div class="grid-item">
+		Data ETL Pipelines </br>
+		Logging </br>
+		Monitoring
+	</div>
+	<div class="grid-item">
+		OSQuery / Fleets</br>
+		Vector.dev</br>
+		Prometheus</br>
+		Grafana</br>
+	</div>
+	<div class="grid-item">
+		Preformance Monitoring </br>
+		Log Collection and Analysis </br>
+		Alerting and Notifications
+	</div>
+</div>
+<style>
+	.grid {
+		display: grid;
+		grid-template-columns: repeat(3, 1fr);
+		grid-gap: 10px;
+	}
+
+	.grid-item {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		background-color: lightgray;
+		border-radius: 10px;
+		padding: 20px;
+		text-align: center;
+	}
+
+	.grid-item:nth-child(3n+1) {
+		background-color: lightblue;
+	}
+
+	.grid-item:nth-child(3n+2) {
+		background-color: lightyellow;
+	}
+
+	.grid-item:nth-child(3n+3) {
+		background-color: #C1E1C1;
+	}
+
+	.subgrid {
+		display: grid;
+		grid-template-columns: repeat(1, 1fr);
+		grid-gap: 20px;
+	}
+
+	.subgrid-item:nth-child(1) {
+		height: 100%;
+		width: 100%;
+		background-color: lightyellow;
+	}
+
+	.subgrid-item:nth-child(2) {
+		height: 100%;
+		width: 100%;
+		border-radius: 10px;
+		background-color: #CBC3E3;
+	}
+
+	@media (max-width: 767px) {
+		.grid {
+			grid-template-columns: repeat(1, 1fr);
+		}
+	}
+</style>
